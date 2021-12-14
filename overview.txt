@@ -1,0 +1,9 @@
+1. Header
+2. Avatar
+3. Content
+    1. About me
+    2. Showreels
+    3. Gallary
+    4. Resume
+    5. Contact
+4. Footer
